@@ -1,0 +1,126 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9136918783187866,
+      "points": [
+        [
+          216.4402618408203,
+          98.01712036132812
+        ],
+        [
+          595.8383178710938,
+          98.01712036132812
+        ],
+        [
+          595.8383178710938,
+          394.849853515625
+        ],
+        [
+          216.4402618408203,
+          394.849853515625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7464356422424316,
+      "points": [
+        [
+          891.6160888671875,
+          123.6502685546875
+        ],
+        [
+          1086.2137451171875,
+          123.6502685546875
+        ],
+        [
+          1086.2137451171875,
+          342.465087890625
+        ],
+        [
+          891.6160888671875,
+          342.465087890625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.2833452820777893,
+      "points": [
+        [
+          885.5570678710938,
+          254.665283203125
+        ],
+        [
+          1019.2825317382812,
+          254.665283203125
+        ],
+        [
+          1019.2825317382812,
+          339.265625
+        ],
+        [
+          885.5570678710938,
+          339.265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          575.4545454545455,
+          257.57575757575756
+        ],
+        [
+          658.4848484848485,
+          257.57575757575756
+        ],
+        [
+          658.4848484848485,
+          354.5454545454545
+        ],
+        [
+          575.4545454545455,
+          354.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "foggy-079.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,69 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.7659081220626831,
+      "points": [
+        [
+          441.7469787597656,
+          473.5106201171875
+        ],
+        [
+          645.4669189453125,
+          473.5106201171875
+        ],
+        [
+          645.4669189453125,
+          770.5413818359375
+        ],
+        [
+          441.7469787597656,
+          770.5413818359375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          372.0143884892087,
+          637.2913669064748
+        ],
+        [
+          442.5179856115109,
+          637.2913669064748
+        ],
+        [
+          442.5179856115109,
+          702.0395683453237
+        ],
+        [
+          372.0143884892087,
+          702.0395683453237
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "haze-095.jpg",
+  "imageData": null,
+  "imageHeight": 853,
+  "imageWidth": 1280,
+  "description": ""
+}

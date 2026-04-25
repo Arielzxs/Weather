@@ -1,0 +1,40 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9263491630554199,
+      "points": [
+        [
+          180.75111389160156,
+          94.01944732666016
+        ],
+        [
+          335.88275146484375,
+          94.01944732666016
+        ],
+        [
+          335.88275146484375,
+          216.99827575683594
+        ],
+        [
+          180.75111389160156,
+          216.99827575683594
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-039.jpg",
+  "imageData": null,
+  "imageHeight": 450,
+  "imageWidth": 600,
+  "description": ""
+}

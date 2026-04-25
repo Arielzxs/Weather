@@ -1,0 +1,301 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.8196722269058228,
+      "points": [
+        [
+          205.6160888671875,
+          760.0452880859375
+        ],
+        [
+          289.88885498046875,
+          760.0452880859375
+        ],
+        [
+          289.88885498046875,
+          807.8372802734375
+        ],
+        [
+          205.6160888671875,
+          807.8372802734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7989920377731323,
+      "points": [
+        [
+          77.407470703125,
+          768.7357177734375
+        ],
+        [
+          155.98544311523438,
+          768.7357177734375
+        ],
+        [
+          155.98544311523438,
+          807.5968017578125
+        ],
+        [
+          77.407470703125,
+          807.5968017578125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.6556872129440308,
+      "points": [
+        [
+          897.4036865234375,
+          760.8087158203125
+        ],
+        [
+          1009.4442138671875,
+          760.8087158203125
+        ],
+        [
+          1009.4442138671875,
+          793.528564453125
+        ],
+        [
+          897.4036865234375,
+          793.528564453125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.575688898563385,
+      "points": [
+        [
+          132.59861755371094,
+          759.6387939453125
+        ],
+        [
+          170.9420928955078,
+          759.6387939453125
+        ],
+        [
+          170.9420928955078,
+          797.4432373046875
+        ],
+        [
+          132.59861755371094,
+          797.4432373046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.5295841693878174,
+      "points": [
+        [
+          736.1964111328125,
+          749.5845947265625
+        ],
+        [
+          917.6861572265625,
+          749.5845947265625
+        ],
+        [
+          917.6861572265625,
+          808.0
+        ],
+        [
+          736.1964111328125,
+          808.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.5146569013595581,
+      "points": [
+        [
+          279.3536071777344,
+          769.2276611328125
+        ],
+        [
+          311.0690002441406,
+          769.2276611328125
+        ],
+        [
+          311.0690002441406,
+          798.6053466796875
+        ],
+        [
+          279.3536071777344,
+          798.6053466796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.5129201412200928,
+      "points": [
+        [
+          609.2094116210938,
+          760.3912353515625
+        ],
+        [
+          631.0748901367188,
+          760.3912353515625
+        ],
+        [
+          631.0748901367188,
+          807.8897705078125
+        ],
+        [
+          609.2094116210938,
+          807.8897705078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.4469015598297119,
+      "points": [
+        [
+          0.604278564453125,
+          760.48583984375
+        ],
+        [
+          24.304351806640625,
+          760.48583984375
+        ],
+        [
+          24.304351806640625,
+          807.14697265625
+        ],
+        [
+          0.604278564453125,
+          807.14697265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.3952541947364807,
+      "points": [
+        [
+          549.95361328125,
+          762.4737548828125
+        ],
+        [
+          570.095703125,
+          762.4737548828125
+        ],
+        [
+          570.095703125,
+          806.287109375
+        ],
+        [
+          549.95361328125,
+          806.287109375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.29369503259658813,
+      "points": [
+        [
+          594.4058837890625,
+          763.22607421875
+        ],
+        [
+          613.7286376953125,
+          763.22607421875
+        ],
+        [
+          613.7286376953125,
+          806.899169921875
+        ],
+        [
+          594.4058837890625,
+          806.899169921875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "haze-019.jpg",
+  "imageData": null,
+  "imageHeight": 808,
+  "imageWidth": 1280,
+  "description": ""
+}

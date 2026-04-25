@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9094078540802002,
+      "points": [
+        [
+          456.1339445114135,
+          271.6384801864624
+        ],
+        [
+          572.2538251876831,
+          271.6384801864624
+        ],
+        [
+          572.2538251876831,
+          335.38936252593993
+        ],
+        [
+          456.1339445114135,
+          335.38936252593993
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8687061071395874,
+      "points": [
+        [
+          129.2901520729065,
+          267.1347729682922
+        ],
+        [
+          246.43901357650756,
+          267.1347729682922
+        ],
+        [
+          246.43901357650756,
+          335.4244120597839
+        ],
+        [
+          129.2901520729065,
+          335.4244120597839
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8585461378097534,
+      "points": [
+        [
+          328.3518696784973,
+          267.26966056823727
+        ],
+        [
+          392.13834695816035,
+          267.26966056823727
+        ],
+        [
+          392.13834695816035,
+          326.0832950592041
+        ],
+        [
+          328.3518696784973,
+          326.0832950592041
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          403.8,
+          270.3
+        ],
+        [
+          426.7,
+          270.3
+        ],
+        [
+          426.7,
+          288.9
+        ],
+        [
+          403.8,
+          288.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-031.jpg",
+  "imageData": null,
+  "imageHeight": 337,
+  "imageWidth": 602,
+  "description": ""
+}

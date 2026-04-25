@@ -1,0 +1,156 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9293703436851501,
+      "points": [
+        [
+          681.8855590820312,
+          319.092529296875
+        ],
+        [
+          839.2471923828125,
+          319.092529296875
+        ],
+        [
+          839.2471923828125,
+          440.50274658203125
+        ],
+        [
+          681.8855590820312,
+          440.50274658203125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9280248880386353,
+      "points": [
+        [
+          157.60235595703125,
+          308.9307556152344
+        ],
+        [
+          305.1656799316406,
+          308.9307556152344
+        ],
+        [
+          305.1656799316406,
+          420.0316162109375
+        ],
+        [
+          157.60235595703125,
+          420.0316162109375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8301992416381836,
+      "points": [
+        [
+          783.811767578125,
+          292.57177734375
+        ],
+        [
+          879.0802001953125,
+          292.57177734375
+        ],
+        [
+          879.0802001953125,
+          374.9771423339844
+        ],
+        [
+          783.811767578125,
+          374.9771423339844
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          288.2383419689119,
+          287.84715025906735
+        ],
+        [
+          399.6373056994819,
+          287.84715025906735
+        ],
+        [
+          399.6373056994819,
+          367.63989637305696
+        ],
+        [
+          288.2383419689119,
+          367.63989637305696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          648.3419689119171,
+          267.12176165803106
+        ],
+        [
+          729.1709844559585,
+          267.12176165803106
+        ],
+        [
+          729.1709844559585,
+          329.81606217616576
+        ],
+        [
+          648.3419689119171,
+          329.81606217616576
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-024.jpg",
+  "imageData": null,
+  "imageHeight": 613,
+  "imageWidth": 920,
+  "description": ""
+}

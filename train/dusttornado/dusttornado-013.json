@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9343693256378174,
+      "points": [
+        [
+          57.91805720329285,
+          64.4066834449768
+        ],
+        [
+          255.32938957214355,
+          64.4066834449768
+        ],
+        [
+          255.32938957214355,
+          257.78014755249023
+        ],
+        [
+          57.91805720329285,
+          257.78014755249023
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8545860052108765,
+      "points": [
+        [
+          350.07982635498047,
+          184.33475875854492
+        ],
+        [
+          430.1682529449463,
+          184.33475875854492
+        ],
+        [
+          430.1682529449463,
+          241.46720123291016
+        ],
+        [
+          350.07982635498047,
+          241.46720123291016
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.3346822261810303,
+      "points": [
+        [
+          343.33652114868164,
+          168.67483806610107
+        ],
+        [
+          401.288818359375,
+          168.67483806610107
+        ],
+        [
+          401.288818359375,
+          207.55366802215576
+        ],
+        [
+          343.33652114868164,
+          207.55366802215576
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          246.79802955665022,
+          160.3448275862069
+        ],
+        [
+          302.9556650246305,
+          160.3448275862069
+        ],
+        [
+          302.9556650246305,
+          219.4581280788177
+        ],
+        [
+          246.79802955665022,
+          219.4581280788177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-013.jpg",
+  "imageData": null,
+  "imageHeight": 301,
+  "imageWidth": 540,
+  "description": ""
+}

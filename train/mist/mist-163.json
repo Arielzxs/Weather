@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9361175298690796,
+      "points": [
+        [
+          100.98355102539062,
+          311.7468566894531
+        ],
+        [
+          377.481201171875,
+          311.7468566894531
+        ],
+        [
+          377.481201171875,
+          501.5229797363281
+        ],
+        [
+          100.98355102539062,
+          501.5229797363281
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.88637375831604,
+      "points": [
+        [
+          322.0107116699219,
+          304.36260986328125
+        ],
+        [
+          449.273681640625,
+          304.36260986328125
+        ],
+        [
+          449.273681640625,
+          419.88873291015625
+        ],
+        [
+          322.0107116699219,
+          419.88873291015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.8645192384719849,
+      "points": [
+        [
+          556.1092529296875,
+          270.7457580566406
+        ],
+        [
+          591.3991088867188,
+          270.7457580566406
+        ],
+        [
+          591.3991088867188,
+          407.6855163574219
+        ],
+        [
+          556.1092529296875,
+          407.6855163574219
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-163.jpg",
+  "imageData": null,
+  "imageHeight": 511,
+  "imageWidth": 800,
+  "description": ""
+}

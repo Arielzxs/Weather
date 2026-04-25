@@ -1,0 +1,69 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.908406138420105,
+      "points": [
+        [
+          49.149696350097656,
+          112.9583984375
+        ],
+        [
+          159.25097198486327,
+          112.9583984375
+        ],
+        [
+          159.25097198486327,
+          193.08592529296874
+        ],
+        [
+          49.149696350097656,
+          193.08592529296874
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.9054662585258484,
+      "points": [
+        [
+          288.4739562988281,
+          113.91034545898437
+        ],
+        [
+          380.88976440429684,
+          113.91034545898437
+        ],
+        [
+          380.88976440429684,
+          180.42273559570313
+        ],
+        [
+          288.4739562988281,
+          180.42273559570313
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-026.jpg",
+  "imageData": null,
+  "imageHeight": 252,
+  "imageWidth": 448,
+  "description": ""
+}

@@ -1,0 +1,184 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.8499687314033508,
+      "points": [
+        [
+          13.580978393554688,
+          156.188232421875
+        ],
+        [
+          231.8846435546875,
+          156.188232421875
+        ],
+        [
+          231.8846435546875,
+          315.877685546875
+        ],
+        [
+          13.580978393554688,
+          315.877685546875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.7813159227371216,
+      "points": [
+        [
+          944.8281860351562,
+          76.8721923828125
+        ],
+        [
+          1123.556640625,
+          76.8721923828125
+        ],
+        [
+          1123.556640625,
+          389.2857666015625
+        ],
+        [
+          944.8281860351562,
+          389.2857666015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "bicycle",
+      "score": 0.6812829375267029,
+      "points": [
+        [
+          959.8790893554688,
+          174.135986328125
+        ],
+        [
+          1130.562255859375,
+          174.135986328125
+        ],
+        [
+          1130.562255859375,
+          458.829345703125
+        ],
+        [
+          959.8790893554688,
+          458.829345703125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.4687647521495819,
+      "points": [
+        [
+          385.92401123046875,
+          169.2197265625
+        ],
+        [
+          551.6159057617188,
+          169.2197265625
+        ],
+        [
+          551.6159057617188,
+          278.444580078125
+        ],
+        [
+          385.92401123046875,
+          278.444580078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.35450640320777893,
+      "points": [
+        [
+          595.6256103515625,
+          170.0440673828125
+        ],
+        [
+          754.5118408203125,
+          170.0440673828125
+        ],
+        [
+          754.5118408203125,
+          318.650390625
+        ],
+        [
+          595.6256103515625,
+          318.650390625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.2617742717266083,
+      "points": [
+        [
+          228.5561065673828,
+          46.30133056640625
+        ],
+        [
+          404.24774169921875,
+          46.30133056640625
+        ],
+        [
+          404.24774169921875,
+          275.37640380859375
+        ],
+        [
+          228.5561065673828,
+          275.37640380859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "foggy-010.jpg",
+  "imageData": null,
+  "imageHeight": 529,
+  "imageWidth": 1280
+}
