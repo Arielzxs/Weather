@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.891340970993042,
+      "points": [
+        [
+          387.5501953125,
+          352.526171875
+        ],
+        [
+          577.11845703125,
+          352.526171875
+        ],
+        [
+          577.11845703125,
+          522.30380859375
+        ],
+        [
+          387.5501953125,
+          522.30380859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "person",
+      "score": 0.767589807510376,
+      "points": [
+        [
+          693.57900390625,
+          426.60517578125
+        ],
+        [
+          738.03271484375,
+          426.60517578125
+        ],
+        [
+          738.03271484375,
+          507.76650390625
+        ],
+        [
+          693.57900390625,
+          507.76650390625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          626.6355140186915,
+          419.61214953271025
+        ],
+        [
+          698.1308411214953,
+          419.61214953271025
+        ],
+        [
+          698.1308411214953,
+          511.2009345794392
+        ],
+        [
+          626.6355140186915,
+          511.2009345794392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-007.jpg",
+  "imageData": null,
+  "imageHeight": 571,
+  "imageWidth": 1024,
+  "description": ""
+}

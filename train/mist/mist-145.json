@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.6386988162994385,
+      "points": [
+        [
+          218.85787963867188,
+          48.461185455322266
+        ],
+        [
+          272.62274169921875,
+          48.461185455322266
+        ],
+        [
+          272.62274169921875,
+          82.06256103515625
+        ],
+        [
+          218.85787963867188,
+          82.06256103515625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.38912433385849,
+      "points": [
+        [
+          69.93054962158203,
+          47.54659652709961
+        ],
+        [
+          158.07083129882812,
+          47.54659652709961
+        ],
+        [
+          158.07083129882812,
+          96.08440399169922
+        ],
+        [
+          69.93054962158203,
+          96.08440399169922
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.2904703617095947,
+      "points": [
+        [
+          69.93054962158203,
+          47.54659652709961
+        ],
+        [
+          158.07083129882812,
+          47.54659652709961
+        ],
+        [
+          158.07083129882812,
+          96.08440399169922
+        ],
+        [
+          69.93054962158203,
+          96.08440399169922
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-145.jpg",
+  "imageData": null,
+  "imageHeight": 161,
+  "imageWidth": 313,
+  "description": ""
+}

@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9617941379547119,
+      "points": [
+        [
+          148.11973571777344,
+          143.13795471191406
+        ],
+        [
+          363.1441955566406,
+          143.13795471191406
+        ],
+        [
+          363.1441955566406,
+          266.10260009765625
+        ],
+        [
+          148.11973571777344,
+          266.10260009765625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8424691557884216,
+      "points": [
+        [
+          2.3526878356933594,
+          130.20506286621094
+        ],
+        [
+          85.83517456054688,
+          130.20506286621094
+        ],
+        [
+          85.83517456054688,
+          211.26608276367188
+        ],
+        [
+          2.3526878356933594,
+          211.26608276367188
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.6585980653762817,
+      "points": [
+        [
+          151.32211303710938,
+          142.0675506591797
+        ],
+        [
+          190.4523468017578,
+          142.0675506591797
+        ],
+        [
+          190.4523468017578,
+          177.5587921142578
+        ],
+        [
+          151.32211303710938,
+          177.5587921142578
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.5804091691970825,
+      "points": [
+        [
+          464.7919006347656,
+          147.34368896484375
+        ],
+        [
+          479.8099365234375,
+          147.34368896484375
+        ],
+        [
+          479.8099365234375,
+          176.18569946289062
+        ],
+        [
+          464.7919006347656,
+          176.18569946289062
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "mist-062.jpg",
+  "imageData": null,
+  "imageHeight": 270,
+  "imageWidth": 480,
+  "description": ""
+}

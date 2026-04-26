@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9331769943237305,
+      "points": [
+        [
+          0.301483154296875,
+          141.68540954589844
+        ],
+        [
+          191.47988891601562,
+          141.68540954589844
+        ],
+        [
+          191.47988891601562,
+          251.61007690429688
+        ],
+        [
+          0.301483154296875,
+          251.61007690429688
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7173886299133301,
+      "points": [
+        [
+          402.843017578125,
+          119.5107650756836
+        ],
+        [
+          446.4473876953125,
+          119.5107650756836
+        ],
+        [
+          446.4473876953125,
+          145.29176330566406
+        ],
+        [
+          402.843017578125,
+          145.29176330566406
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.25501543283462524,
+      "points": [
+        [
+          0.0623016357421875,
+          144.86692810058594
+        ],
+        [
+          45.864112854003906,
+          144.86692810058594
+        ],
+        [
+          45.864112854003906,
+          179.46763610839844
+        ],
+        [
+          0.0623016357421875,
+          179.46763610839844
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-057.jpg",
+  "imageData": null,
+  "imageHeight": 270,
+  "imageWidth": 480,
+  "description": ""
+}

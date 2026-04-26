@@ -1,0 +1,69 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.789191484451294,
+      "points": [
+        [
+          263.7748718261719,
+          204.08779907226562
+        ],
+        [
+          310.0658874511719,
+          204.08779907226562
+        ],
+        [
+          310.0658874511719,
+          237.44215393066406
+        ],
+        [
+          263.7748718261719,
+          237.44215393066406
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7700347900390625,
+      "points": [
+        [
+          183.1087188720703,
+          207.80474853515625
+        ],
+        [
+          229.72608947753906,
+          207.80474853515625
+        ],
+        [
+          229.72608947753906,
+          236.72857666015625
+        ],
+        [
+          183.1087188720703,
+          236.72857666015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-088.jpg",
+  "imageData": null,
+  "imageHeight": 338,
+  "imageWidth": 600,
+  "description": ""
+}

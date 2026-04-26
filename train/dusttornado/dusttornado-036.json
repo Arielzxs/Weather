@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.8469818234443665,
+      "points": [
+        [
+          373.21987438201904,
+          132.29883193969727
+        ],
+        [
+          450.645619392395,
+          132.29883193969727
+        ],
+        [
+          450.645619392395,
+          195.4773292541504
+        ],
+        [
+          373.21987438201904,
+          195.4773292541504
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.8238047361373901,
+      "points": [
+        [
+          537.7553825378418,
+          121.55807495117188
+        ],
+        [
+          589.348217010498,
+          121.55807495117188
+        ],
+        [
+          589.348217010498,
+          166.56290817260742
+        ],
+        [
+          537.7553825378418,
+          166.56290817260742
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.4430376887321472,
+      "points": [
+        [
+          401.3040475845337,
+          115.22855949401855
+        ],
+        [
+          469.1691541671753,
+          115.22855949401855
+        ],
+        [
+          469.1691541671753,
+          178.40200233459473
+        ],
+        [
+          401.3040475845337,
+          178.40200233459473
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-036.jpg",
+  "imageData": null,
+  "imageHeight": 340,
+  "imageWidth": 1060,
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.5292272567749023,
+      "points": [
+        [
+          481.2666015625,
+          416.172119140625
+        ],
+        [
+          604.2017822265625,
+          416.172119140625
+        ],
+        [
+          604.2017822265625,
+          524.057861328125
+        ],
+        [
+          481.2666015625,
+          524.057861328125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "haze-011.jpg",
+  "imageData": null,
+  "imageHeight": 857,
+  "imageWidth": 1280,
+  "description": ""
+}

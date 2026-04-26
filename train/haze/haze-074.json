@@ -1,0 +1,69 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "score": 0.7342801690101624,
+      "points": [
+        [
+          383.3265380859375,
+          720.4224853515625
+        ],
+        [
+          439.0672607421875,
+          720.4224853515625
+        ],
+        [
+          439.0672607421875,
+          814.7620849609375
+        ],
+        [
+          383.3265380859375,
+          814.7620849609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": 0.6535830497741699,
+      "points": [
+        [
+          380.5164794921875,
+          685.4295654296875
+        ],
+        [
+          440.93707275390625,
+          685.4295654296875
+        ],
+        [
+          440.93707275390625,
+          795.33984375
+        ],
+        [
+          380.5164794921875,
+          795.33984375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "haze-074.jpg",
+  "imageData": null,
+  "imageHeight": 854,
+  "imageWidth": 1280,
+  "description": ""
+}

@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9544705152511597,
+      "points": [
+        [
+          442.7297058105469,
+          67.70101165771484
+        ],
+        [
+          868.804931640625,
+          67.70101165771484
+        ],
+        [
+          868.804931640625,
+          436.1655578613281
+        ],
+        [
+          442.7297058105469,
+          436.1655578613281
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.9091376066207886,
+      "points": [
+        [
+          816.561767578125,
+          131.30767822265625
+        ],
+        [
+          967.418701171875,
+          131.30767822265625
+        ],
+        [
+          967.418701171875,
+          296.6126403808594
+        ],
+        [
+          816.561767578125,
+          296.6126403808594
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7378060817718506,
+      "points": [
+        [
+          192.3001251220703,
+          116.90980529785156
+        ],
+        [
+          370.56500244140625,
+          116.90980529785156
+        ],
+        [
+          370.56500244140625,
+          214.777099609375
+        ],
+        [
+          192.3001251220703,
+          214.777099609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "sand_storm-024.jpg",
+  "imageData": null,
+  "imageHeight": 674,
+  "imageWidth": 1200,
+  "description": ""
+}

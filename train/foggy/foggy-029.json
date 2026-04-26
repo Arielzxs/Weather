@@ -1,0 +1,40 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.7544553875923157,
+      "points": [
+        [
+          773.1002197265625,
+          524.9832763671875
+        ],
+        [
+          867.955810546875,
+          524.9832763671875
+        ],
+        [
+          867.955810546875,
+          613.9793701171875
+        ],
+        [
+          773.1002197265625,
+          613.9793701171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "foggy-029.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1280,
+  "description": ""
+}

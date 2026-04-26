@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9195689558982849,
+      "points": [
+        [
+          269.407209777832,
+          109.30336685180663
+        ],
+        [
+          443.0353103637695,
+          109.30336685180663
+        ],
+        [
+          443.0353103637695,
+          204.17012252807615
+        ],
+        [
+          269.407209777832,
+          204.17012252807615
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9194213151931763,
+      "points": [
+        [
+          78.67917098999023,
+          118.35865898132323
+        ],
+        [
+          258.07861328125,
+          118.35865898132323
+        ],
+        [
+          258.07861328125,
+          277.9446594238281
+        ],
+        [
+          78.67917098999023,
+          277.9446594238281
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.41062265634536743,
+      "points": [
+        [
+          406.3857421875,
+          80.12075729370116
+        ],
+        [
+          475.6221954345703,
+          80.12075729370116
+        ],
+        [
+          475.6221954345703,
+          142.49601287841796
+        ],
+        [
+          406.3857421875,
+          142.49601287841796
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "dusttornado-006.jpg",
+  "imageData": null,
+  "imageHeight": 366,
+  "imageWidth": 592,
+  "description": ""
+}

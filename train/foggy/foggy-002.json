@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8267743587493896,
+      "points": [
+        [
+          430.39520263671875,
+          579.5205688476562
+        ],
+        [
+          588.7498168945312,
+          579.5205688476562
+        ],
+        [
+          588.7498168945312,
+          779.6594848632812
+        ],
+        [
+          430.39520263671875,
+          779.6594848632812
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "bicycle",
+      "score": 0.7188509702682495,
+      "points": [
+        [
+          672.8197021484375,
+          685.3162841796875
+        ],
+        [
+          758.2100830078125,
+          685.3162841796875
+        ],
+        [
+          758.2100830078125,
+          820.6104736328125
+        ],
+        [
+          672.8197021484375,
+          820.6104736328125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.33066198229789734,
+      "points": [
+        [
+          165.751708984375,
+          589.3131103515625
+        ],
+        [
+          293.5552978515625,
+          589.3131103515625
+        ],
+        [
+          293.5552978515625,
+          733.7821044921875
+        ],
+        [
+          165.751708984375,
+          733.7821044921875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "person",
+      "score": 0.29092833399772644,
+      "points": [
+        [
+          663.0438232421875,
+          621.1138916015625
+        ],
+        [
+          758.5303955078125,
+          621.1138916015625
+        ],
+        [
+          758.5303955078125,
+          770.9891357421875
+        ],
+        [
+          663.0438232421875,
+          770.9891357421875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "foggy-002.jpg",
+  "imageData": null,
+  "imageHeight": 909,
+  "imageWidth": 1280,
+  "description": ""
+}

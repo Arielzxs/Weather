@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8669893741607666,
+      "points": [
+        [
+          1263.3592529296875,
+          707.5758666992188
+        ],
+        [
+          1365.375244140625,
+          707.5758666992188
+        ],
+        [
+          1365.375244140625,
+          778.9984130859375
+        ],
+        [
+          1263.3592529296875,
+          778.9984130859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.6279993057250977,
+      "points": [
+        [
+          1539.6387939453125,
+          671.3193359375
+        ],
+        [
+          1821.921630859375,
+          671.3193359375
+        ],
+        [
+          1821.921630859375,
+          778.234375
+        ],
+        [
+          1539.6387939453125,
+          778.234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.3356902003288269,
+      "points": [
+        [
+          1761.02734375,
+          674.6848754882812
+        ],
+        [
+          1849.6263427734375,
+          674.6848754882812
+        ],
+        [
+          1849.6263427734375,
+          746.8645629882812
+        ],
+        [
+          1761.02734375,
+          746.8645629882812
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          1174.0,
+          691.3766233766233
+        ],
+        [
+          1229.844155844156,
+          691.3766233766233
+        ],
+        [
+          1229.844155844156,
+          740.7272727272727
+        ],
+        [
+          1174.0,
+          740.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-019.jpg",
+  "imageData": null,
+  "imageHeight": 1536,
+  "imageWidth": 2048,
+  "description": ""
+}

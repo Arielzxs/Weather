@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9442932605743408,
+      "points": [
+        [
+          36.326419830322266,
+          918.4163208007812
+        ],
+        [
+          452.3882751464844,
+          918.4163208007812
+        ],
+        [
+          452.3882751464844,
+          1179.8848876953125
+        ],
+        [
+          36.326419830322266,
+          1179.8848876953125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9439258575439453,
+      "points": [
+        [
+          558.1339721679688,
+          825.8818359375
+        ],
+        [
+          1194.4686279296875,
+          825.8818359375
+        ],
+        [
+          1194.4686279296875,
+          1298.5146484375
+        ],
+        [
+          558.1339721679688,
+          1298.5146484375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.9249237775802612,
+      "points": [
+        [
+          428.8857727050781,
+          884.7650756835938
+        ],
+        [
+          640.12744140625,
+          884.7650756835938
+        ],
+        [
+          640.12744140625,
+          1060.262451171875
+        ],
+        [
+          428.8857727050781,
+          1060.262451171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "sand_storm_g2_-019.jpg",
+  "imageData": null,
+  "imageHeight": 1408,
+  "imageWidth": 1278,
+  "description": ""
+}

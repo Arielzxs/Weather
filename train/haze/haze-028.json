@@ -1,0 +1,301 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "bicycle",
+      "score": 0.8554350137710571,
+      "points": [
+        [
+          762.5772705078125,
+          539.6759033203125
+        ],
+        [
+          904.2198486328125,
+          539.6759033203125
+        ],
+        [
+          904.2198486328125,
+          788.5535888671875
+        ],
+        [
+          762.5772705078125,
+          788.5535888671875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "person",
+      "score": 0.7176095843315125,
+      "points": [
+        [
+          755.120849609375,
+          429.9361572265625
+        ],
+        [
+          903.52294921875,
+          429.9361572265625
+        ],
+        [
+          903.52294921875,
+          716.0638427734375
+        ],
+        [
+          755.120849609375,
+          716.0638427734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.6302540898323059,
+      "points": [
+        [
+          807.863037109375,
+          381.00152587890625
+        ],
+        [
+          1094.7349853515625,
+          381.00152587890625
+        ],
+        [
+          1094.7349853515625,
+          704.1920776367188
+        ],
+        [
+          807.863037109375,
+          704.1920776367188
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.6014438271522522,
+      "points": [
+        [
+          1083.0496826171875,
+          399.2445068359375
+        ],
+        [
+          1266.0631103515625,
+          399.2445068359375
+        ],
+        [
+          1266.0631103515625,
+          597.0499267578125
+        ],
+        [
+          1083.0496826171875,
+          597.0499267578125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.5117754340171814,
+      "points": [
+        [
+          690.2392578125,
+          411.298095703125
+        ],
+        [
+          808.901123046875,
+          411.298095703125
+        ],
+        [
+          808.901123046875,
+          607.8792724609375
+        ],
+        [
+          690.2392578125,
+          607.8792724609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.39740070700645447,
+      "points": [
+        [
+          1085.077392578125,
+          399.115966796875
+        ],
+        [
+          1264.555419921875,
+          399.115966796875
+        ],
+        [
+          1264.555419921875,
+          597.355224609375
+        ],
+        [
+          1085.077392578125,
+          597.355224609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.3586219549179077,
+      "points": [
+        [
+          805.7685546875,
+          381.30279541015625
+        ],
+        [
+          1094.488037109375,
+          381.30279541015625
+        ],
+        [
+          1094.488037109375,
+          704.2824096679688
+        ],
+        [
+          805.7685546875,
+          704.2824096679688
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "score": null,
+      "points": [
+        [
+          579.453125,
+          445.65625000000006
+        ],
+        [
+          659.140625,
+          445.65625000000006
+        ],
+        [
+          659.140625,
+          627.6875
+        ],
+        [
+          579.453125,
+          627.6875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "bicycle",
+      "score": null,
+      "points": [
+        [
+          574.765625,
+          501.90625000000006
+        ],
+        [
+          658.359375,
+          501.90625000000006
+        ],
+        [
+          658.359375,
+          630.03125
+        ],
+        [
+          574.765625,
+          630.03125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "person",
+      "score": null,
+      "points": [
+        [
+          190.39062500000003,
+          433.93750000000006
+        ],
+        [
+          279.453125,
+          433.93750000000006
+        ],
+        [
+          279.453125,
+          611.28125
+        ],
+        [
+          190.39062500000003,
+          611.28125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "haze-028.jpg",
+  "imageData": null,
+  "imageHeight": 921,
+  "imageWidth": 1280,
+  "description": ""
+}

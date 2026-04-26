@@ -1,0 +1,156 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9160549640655518,
+      "points": [
+        [
+          348.92007637023926,
+          202.79013633728027
+        ],
+        [
+          461.4887180328369,
+          202.79013633728027
+        ],
+        [
+          461.4887180328369,
+          282.00204277038574
+        ],
+        [
+          348.92007637023926,
+          282.00204277038574
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.8609672784805298,
+      "points": [
+        [
+          474.01069736480713,
+          212.4070587158203
+        ],
+        [
+          537.4246015548706,
+          212.4070587158203
+        ],
+        [
+          537.4246015548706,
+          259.68003845214844
+        ],
+        [
+          474.01069736480713,
+          259.68003845214844
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.829468846321106,
+      "points": [
+        [
+          300.2402415275574,
+          205.53258419036865
+        ],
+        [
+          340.59391021728516,
+          205.53258419036865
+        ],
+        [
+          340.59391021728516,
+          245.81791019439697
+        ],
+        [
+          300.2402415275574,
+          245.81791019439697
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.6963304877281189,
+      "points": [
+        [
+          144.33873867988586,
+          182.2772512435913
+        ],
+        [
+          251.95963954925537,
+          182.2772512435913
+        ],
+        [
+          251.95963954925537,
+          279.1590986251831
+        ],
+        [
+          144.33873867988586,
+          279.1590986251831
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.625422477722168,
+      "points": [
+        [
+          613.633186340332,
+          196.00801277160645
+        ],
+        [
+          688.8713607788086,
+          196.00801277160645
+        ],
+        [
+          688.8713607788086,
+          260.928617477417
+        ],
+        [
+          613.633186340332,
+          260.928617477417
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dusttornado-016.jpg",
+  "imageData": null,
+  "imageHeight": 439,
+  "imageWidth": 780,
+  "description": ""
+}

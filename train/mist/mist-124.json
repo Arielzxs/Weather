@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9315842986106873,
+      "points": [
+        [
+          104.3169937133789,
+          311.3029479980469
+        ],
+        [
+          511.2459411621094,
+          311.3029479980469
+        ],
+        [
+          511.2459411621094,
+          568.7643432617188
+        ],
+        [
+          104.3169937133789,
+          568.7643432617188
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.8979145288467407,
+      "points": [
+        [
+          1010.2749633789062,
+          317.79693603515625
+        ],
+        [
+          1220.5196533203125,
+          317.79693603515625
+        ],
+        [
+          1220.5196533203125,
+          455.4739990234375
+        ],
+        [
+          1010.2749633789062,
+          455.4739990234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.7920288443565369,
+      "points": [
+        [
+          1346.7119140625,
+          338.5899963378906
+        ],
+        [
+          1482.947021484375,
+          338.5899963378906
+        ],
+        [
+          1482.947021484375,
+          431.83807373046875
+        ],
+        [
+          1346.7119140625,
+          431.83807373046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mist-124.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1600,
+  "description": ""
+}
