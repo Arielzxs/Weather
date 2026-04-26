@@ -3,6 +3,7 @@
   "flags": {},
   "shapes": [
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.8776585459709167,
       "points": [
@@ -28,41 +29,12 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
-    },
-    {
-      "label": "bicycle",
-      "score": null,
-      "points": [
-        [
-          710.336391437309,
-          467.88990825688074
-        ],
-        [
-          742.1406727828747,
-          467.88990825688074
-        ],
-        [
-          742.1406727828747,
-          520.183486238532
-        ],
-        [
-          710.336391437309,
-          520.183486238532
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     }
   ],
   "imagePath": "foggy-001.jpg",
   "imageData": null,
   "imageHeight": 675,
-  "imageWidth": 1280
+  "imageWidth": 1280,
+  "description": ""
 }

@@ -1,0 +1,127 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9535245299339294,
+      "points": [
+        [
+          1032.1387939453125,
+          248.99285888671875
+        ],
+        [
+          1279.22314453125,
+          248.99285888671875
+        ],
+        [
+          1279.22314453125,
+          626.6543579101562
+        ],
+        [
+          1032.1387939453125,
+          626.6543579101562
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.9453507661819458,
+      "points": [
+        [
+          333.0369873046875,
+          265.983642578125
+        ],
+        [
+          672.6504516601562,
+          265.983642578125
+        ],
+        [
+          672.6504516601562,
+          546.1298828125
+        ],
+        [
+          333.0369873046875,
+          546.1298828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.9428472518920898,
+      "points": [
+        [
+          678.9376831054688,
+          284.8043212890625
+        ],
+        [
+          966.4286499023438,
+          284.8043212890625
+        ],
+        [
+          966.4286499023438,
+          489.89910888671875
+        ],
+        [
+          678.9376831054688,
+          489.89910888671875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": 0.9147329926490784,
+      "points": [
+        [
+          75.59915161132812,
+          245.6380615234375
+        ],
+        [
+          307.9691162109375,
+          245.6380615234375
+        ],
+        [
+          307.9691162109375,
+          454.0731201171875
+        ],
+        [
+          75.59915161132812,
+          454.0731201171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "sand_storm-210.jpg",
+  "imageData": null,
+  "imageHeight": 677,
+  "imageWidth": 1280,
+  "description": ""
+}

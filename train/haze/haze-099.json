@@ -59,35 +59,6 @@
       "shape_type": "rectangle",
       "flags": {},
       "attributes": {}
-    },
-    {
-      "label": "car",
-      "score": null,
-      "points": [
-        [
-          190.3521126760563,
-          698.9859154929577
-        ],
-        [
-          226.9718309859155,
-          698.9859154929577
-        ],
-        [
-          226.9718309859155,
-          729.2676056338028
-        ],
-        [
-          190.3521126760563,
-          729.2676056338028
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
     }
   ],
   "imagePath": "haze-099.jpg",

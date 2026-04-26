@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8671075105667114,
+      "points": [
+        [
+          828.373779296875,
+          214.75762939453125
+        ],
+        [
+          1278.8773193359375,
+          214.75762939453125
+        ],
+        [
+          1278.8773193359375,
+          708.0525512695312
+        ],
+        [
+          828.373779296875,
+          708.0525512695312
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.8636198043823242,
+      "points": [
+        [
+          474.855224609375,
+          406.4083251953125
+        ],
+        [
+          687.1398315429688,
+          406.4083251953125
+        ],
+        [
+          687.1398315429688,
+          614.244384765625
+        ],
+        [
+          474.855224609375,
+          614.244384765625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "car",
+      "score": 0.5795579552650452,
+      "points": [
+        [
+          0.6615753173828125,
+          403.87725830078125
+        ],
+        [
+          277.70782470703125,
+          403.87725830078125
+        ],
+        [
+          277.70782470703125,
+          581.4461669921875
+        ],
+        [
+          0.6615753173828125,
+          581.4461669921875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "sand_storm-100.jpg",
+  "imageData": null,
+  "imageHeight": 717,
+  "imageWidth": 1280,
+  "description": ""
+}

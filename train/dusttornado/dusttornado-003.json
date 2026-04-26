@@ -409,6 +409,7 @@
       "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -434,10 +435,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -463,10 +464,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -492,10 +493,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -521,10 +522,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -550,10 +551,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -579,10 +580,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
@@ -608,28 +609,28 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": null,
       "points": [
         [
-          554.7445255474452,
-          233.17883211678833
+          552.1897810218977,
+          235.36861313868616
         ],
         [
-          577.3722627737226,
-          233.17883211678833
+          577.1897810218977,
+          235.36861313868616
         ],
         [
-          577.3722627737226,
-          248.87226277372264
+          577.1897810218977,
+          257.8138686131387
         ],
         [
-          554.7445255474452,
-          248.87226277372264
+          552.1897810218977,
+          257.8138686131387
         ]
       ],
       "group_id": null,
@@ -637,8 +638,7 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     }
   ],
   "imagePath": "dusttornado-003.jpg",

@@ -211,20 +211,20 @@
       "score": 0.28436964750289917,
       "points": [
         [
-          721.58251953125,
-          664.928955078125
+          736.8085106382979,
+          661.1347517730496
         ],
         [
-          882.0223388671875,
-          664.928955078125
+          854.5390070921986,
+          661.1347517730496
         ],
         [
-          882.0223388671875,
-          757.46044921875
+          854.5390070921986,
+          720.7092198581561
         ],
         [
-          721.58251953125,
-          757.46044921875
+          736.8085106382979,
+          720.7092198581561
         ]
       ],
       "group_id": null,
@@ -235,6 +235,7 @@
       "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "bicycle",
       "score": null,
       "points": [
@@ -260,10 +261,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "person",
       "score": null,
       "points": [
@@ -289,8 +290,7 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     }
   ],
   "imagePath": "haze-093.jpg",

@@ -3,6 +3,7 @@
   "flags": {},
   "shapes": [
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.6186416149139404,
       "points": [
@@ -28,10 +29,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.49580106139183044,
       "points": [
@@ -57,10 +58,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.4429638087749481,
       "points": [
@@ -86,23 +87,23 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.34289979934692383,
       "points": [
         [
           302.1019287109375,
-          516.3486328125
+          522.972972972973
         ],
         [
-          400.0660400390625,
-          516.3486328125
+          355.87837837837844,
+          522.972972972973
         ],
         [
-          400.0660400390625,
+          355.87837837837844,
           545.69140625
         ],
         [
@@ -112,6 +113,34 @@
       ],
       "group_id": null,
       "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          363.98648648648657,
+          520.2702702702703
+        ],
+        [
+          396.41891891891896,
+          520.2702702702703
+        ],
+        [
+          396.41891891891896,
+          539.8648648648649
+        ],
+        [
+          363.98648648648657,
+          539.8648648648649
+        ]
+      ],
+      "group_id": null,
+      "description": "",
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},

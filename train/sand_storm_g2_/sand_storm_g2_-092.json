@@ -1,0 +1,40 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": 0.9465705156326294,
+      "points": [
+        [
+          685.5529174804688,
+          312.8740234375
+        ],
+        [
+          1097.803466796875,
+          312.8740234375
+        ],
+        [
+          1097.803466796875,
+          624.81396484375
+        ],
+        [
+          685.5529174804688,
+          624.81396484375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "sand_storm_g2_-092.jpg",
+  "imageData": null,
+  "imageHeight": 733,
+  "imageWidth": 1280,
+  "description": ""
+}

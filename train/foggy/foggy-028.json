@@ -3,6 +3,7 @@
   "flags": {},
   "shapes": [
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.9282048940658569,
       "points": [
@@ -28,10 +29,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.8579109907150269,
       "points": [
@@ -57,41 +58,12 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
-    },
-    {
-      "label": "person",
-      "score": null,
-      "points": [
-        [
-          932.2764227642276,
-          358.0487804878049
-        ],
-        [
-          1018.4552845528456,
-          358.0487804878049
-        ],
-        [
-          1018.4552845528456,
-          543.4146341463414
-        ],
-        [
-          932.2764227642276,
-          543.4146341463414
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     }
   ],
   "imagePath": "foggy-028.jpg",
   "imageData": null,
   "imageHeight": 960,
-  "imageWidth": 1280
+  "imageWidth": 1280,
+  "description": ""
 }

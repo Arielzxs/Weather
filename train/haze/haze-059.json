@@ -3,6 +3,7 @@
   "flags": {},
   "shapes": [
     {
+      "kie_linking": [],
       "label": "person",
       "score": 0.846998929977417,
       "points": [
@@ -28,10 +29,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.8451461791992188,
       "points": [
@@ -57,39 +58,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
-      "label": "car",
-      "score": 0.8144420981407166,
-      "points": [
-        [
-          218.5407257080078,
-          362.4337158203125
-        ],
-        [
-          305.99017333984375,
-          362.4337158203125
-        ],
-        [
-          305.99017333984375,
-          450.2672119140625
-        ],
-        [
-          218.5407257080078,
-          450.2672119140625
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
-    },
-    {
+      "kie_linking": [],
       "label": "person",
       "score": 0.7914958596229553,
       "points": [
@@ -115,10 +87,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "person",
       "score": 0.6596783995628357,
       "points": [
@@ -127,16 +99,16 @@
           313.018798828125
         ],
         [
-          468.3443603515625,
+          457.98780487804885,
           313.018798828125
         ],
         [
-          468.3443603515625,
-          394.790283203125
+          457.98780487804885,
+          505.62195121951214
         ],
         [
           401.8436279296875,
-          394.790283203125
+          505.62195121951214
         ]
       ],
       "group_id": null,
@@ -144,10 +116,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "person",
       "score": 0.6190661787986755,
       "points": [
@@ -173,28 +145,28 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.3445483446121216,
       "points": [
         [
-          334.496337890625,
-          299.3736572265625
+          463.7646305735518,
+          299.3492669826601
         ],
         [
-          724.8414306640625,
-          299.3736572265625
+          723.2317073170732,
+          299.3492669826601
         ],
         [
-          724.8414306640625,
-          549.9422607421875
+          723.2317073170732,
+          544.0365853658536
         ],
         [
-          334.496337890625,
-          549.9422607421875
+          463.7646305735518,
+          544.0365853658536
         ]
       ],
       "group_id": null,
@@ -202,37 +174,7 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
-    },
-    {
-      "label": "car",
-      "score": 0.33321478962898254,
-      "points": [
-        [
-          332.9358215332031,
-          286.872802734375
-        ],
-        [
-          725.467041015625,
-          286.872802734375
-        ],
-        [
-          725.467041015625,
-          550.093505859375
-        ],
-        [
-          332.9358215332031,
-          550.093505859375
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     }
   ],
   "imagePath": "haze-059.jpg",

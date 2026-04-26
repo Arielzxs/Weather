@@ -1,0 +1,98 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          72.73381294964037,
+          318.74460431654677
+        ],
+        [
+          295.75539568345334,
+          318.74460431654677
+        ],
+        [
+          295.75539568345334,
+          527.3776978417266
+        ],
+        [
+          72.73381294964037,
+          527.3776978417266
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          341.7985611510792,
+          387.089928057554
+        ],
+        [
+          517.338129496403,
+          387.089928057554
+        ],
+        [
+          517.338129496403,
+          525.9388489208633
+        ],
+        [
+          341.7985611510792,
+          525.9388489208633
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "car",
+      "score": null,
+      "points": [
+        [
+          629.568345323741,
+          475.5791366906475
+        ],
+        [
+          728.1294964028777,
+          475.5791366906475
+        ],
+        [
+          728.1294964028777,
+          528.8165467625898
+        ],
+        [
+          629.568345323741,
+          528.8165467625898
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "sand_storm-370.jpg",
+  "imageData": null,
+  "imageHeight": 849,
+  "imageWidth": 1280,
+  "description": ""
+}

@@ -3,6 +3,7 @@
   "flags": {},
   "shapes": [
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.9366506338119507,
       "points": [
@@ -28,10 +29,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "car",
       "score": 0.8599839806556702,
       "points": [
@@ -57,10 +58,10 @@
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
-      "attributes": {},
-      "kie_linking": []
+      "attributes": {}
     },
     {
+      "kie_linking": [],
       "label": "person",
       "score": 0.5199159979820251,
       "points": [
@@ -83,6 +84,34 @@
       ],
       "group_id": null,
       "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "score": null,
+      "points": [
+        [
+          217.11267605633802,
+          346.78169014084506
+        ],
+        [
+          266.4084507042253,
+          346.78169014084506
+        ],
+        [
+          266.4084507042253,
+          417.2042253521127
+        ],
+        [
+          217.11267605633802,
+          417.2042253521127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
       "difficult": false,
       "shape_type": "rectangle",
       "flags": {},
